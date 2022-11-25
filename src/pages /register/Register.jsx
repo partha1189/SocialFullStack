@@ -6,7 +6,9 @@ const Register = () => {
     <div className="register">
       <div className="card">
         <div className="left">
-          <h1>Social.</h1>
+          <h1>
+            N<s>O</s>Social.
+          </h1>
           <p>
             Lorem Ipsum is simply dummy text of the printing and typesetting
             industry. It was popularised in the 1960s with the release of
